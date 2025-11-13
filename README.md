@@ -33,3 +33,29 @@ Use **Terminal**
 
    ```bash
    python --version
+---
+
+### 2. Node.js (LTS)
+
+**Purpose:** Used to run the frontend (Next.js).  
+**Download Link:**   
+[https://nodejs.org/en/download](https://nodejs.org/en/download)
+
+**Steps:**
+
+1. Go to the Node.js download page.
+2. Choose the LTS (Recommended) version for your OS.
+3. Run the installer and keep default options.
+4. Verify installation by running:
+
+    ``` bash
+    node -v
+    npm -v
+    ```
+
+    Now the output should be something like this 
+
+    ``` bash 
+    `v20.x.x`
+    `10.x.x`
+    ```
