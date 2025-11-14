@@ -59,3 +59,24 @@ Use **Terminal**
     `v20.x.x`
     `10.x.x`
     ```
+
+   ### 3. Git
+
+   **Purpose** Used for version control and cloning repositories.
+   **Download Link:** [https://git-scm.com/downloads](https://git-scm.com/downloads)
+   
+   **Steps:**
+
+   1. Download Git for your OS.
+   2. Run the installer and keep default settings.
+   3. Verify installation by running:
+
+      ```bash
+      git --version
+      ```
+      Now the output should look something like this
+
+      ```bash
+      git version 2.x.x
+      ```
+      
