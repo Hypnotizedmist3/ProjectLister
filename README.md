@@ -60,7 +60,7 @@ Use **Terminal**
     `10.x.x`
     ```
 
-   ### 3. Git
+### 3. Git
 
    **Purpose** Used for version control and cloning repositories.
    **Download Link:** [https://git-scm.com/downloads](https://git-scm.com/downloads)
