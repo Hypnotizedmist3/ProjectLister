@@ -59,6 +59,7 @@ Use **Terminal**
     `v20.x.x`
     `10.x.x`
     ```
+---
 
 ### 3. Git
 
@@ -80,3 +81,4 @@ Use **Terminal**
       git version 2.x.x
       ```
       
+---
